@@ -18,10 +18,9 @@ O projeto cobre os seguintes cenários críticos de negócio:
 ## 📁 Estrutura do projeto
 
 Todos os detalhes do que foi feito dentro das sub-tasks e bug-report estarão disponíveis na pasta "Evidencias" do projeto!
+
 Essa foi a arquitetura utilizada dentro do Jira:
 
 ![Cronograma](Images/cronograma.png)
-
-![Backlog](Images/backlog.png)
 
 ![Quadro](Images/quadro.png)
