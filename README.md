@@ -1,4 +1,4 @@
-# 🚀 **Functional tests integrated with Jira**
+# 🚀 **Testes funcionais integrados com o Jira**
 
 Este projeto contém o planejamento, mapeamento e a execução de testes funcionais (caixa-preta) para a plataforma gratuita SauceDemo. O objetivo é validar o fluxo de ponta a ponta (E2E) e as regras de negócio de um e-commerce fictício, garantindo a qualidade e a gestão de defeitos através do gerenciamento ágil com Jira Software.
 
@@ -17,12 +17,11 @@ O projeto cobre os seguintes cenários críticos de negócio:
 
 ## 📁 Estrutura do projeto
 
-Essa foi a arquitetura utilizada no projeto:
+Todos os detalhes do que foi feito dentro das sub-tasks e bug-report estarão disponíveis na pasta "Evidencias" do projeto!
+Essa foi a arquitetura utilizada dentro do Jira:
 
 ![Cronograma](Images/cronograma.png)
 
 ![Backlog](Images/backlog.png)
 
 ![Quadro](Images/quadro.png)
-
-Todos os detalhes do que foi feito dentro das sub-tasks e bug-report estarão disponíveis na pasta "Evidencias" do projeto!
